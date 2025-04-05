@@ -13,7 +13,11 @@ const ConsumerPage = () => {
         id: doc.id,
         ...doc.data(),
       }));
+<<<<<<< HEAD
       setEvents(eventsList);
+=======
+      
+>>>>>>> 900cede (Initial commit)
     };
 
     fetchEvents();

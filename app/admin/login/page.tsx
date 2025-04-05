@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 "use client";
+=======
+>>>>>>> 900cede (Initial commit)
 import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "@/firebaseConfig";
 import { useState } from "react";

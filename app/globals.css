@@ -1,6 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+<<<<<<< HEAD
+=======
+
+@import "tailwindcss";
+>>>>>>> 900cede (Initial commit)
 
 :root {
   --background: #ffffff;
