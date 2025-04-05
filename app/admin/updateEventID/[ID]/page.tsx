@@ -1,4 +1,3 @@
-// Dynamic route file for updateEventID/[ID]
 "use client";
 
 import { useState } from "react";
