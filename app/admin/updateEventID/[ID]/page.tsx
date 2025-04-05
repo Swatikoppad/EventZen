@@ -1,4 +1,11 @@
 // Dynamic route file for updateEventID/[ID]
+"use client";
+
+import { useState } from "react";
+import { doc, updateDoc } from "firebase/firestore";
+import { db } from "@/firebaseConfig";
+
+
 
 interface PageProps {
     params: {
